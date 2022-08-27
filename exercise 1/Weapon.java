@@ -8,6 +8,6 @@ public class Weapon {
 
     //Weapon method
     public void weaponDescription() {
-        System.out.println("My object is " + name + " and I have " + description );
+        System.out.println("My weapon is " + name + " and I have " + description );
     }
 }
